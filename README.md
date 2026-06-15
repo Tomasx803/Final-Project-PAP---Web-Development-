@@ -1,9 +1,6 @@
 # Final-Project-PAP---Web-Development-
 Web Development Project - PAP 
 
-# Final-Project-PAP---Web-Development-
-Web Development Project - PAP 
-
 # Project: Path to Success (Caminho do Sucesso) 🚀
 
 Welcome to the repository for the **Path to Success** project. This is my very first project focused on developing an interactive web platform designed to guide users through their learning journey / personal development / career transition.
